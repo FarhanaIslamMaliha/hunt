@@ -1,0 +1,5 @@
+320-575 extra small
+576-767 small (col-sm)
+768-991 medium (col-md)
+992-1199 large (col-lg)
+1200 extra large
