@@ -267,7 +267,7 @@ nav ul li a:hover:after {
     border: 1px solid #fff;
     font-size: 0;
     background: transparent;
-    outline: 0;
+    outline: none;
     border-radius: 50%;
 }
 
