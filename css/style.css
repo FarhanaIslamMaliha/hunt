@@ -49,7 +49,7 @@ body {
 }
 .fixed {
     position: fixed !important;
-    background: transparent;
+    background: #000;
 }
 
 .title {
