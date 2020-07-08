@@ -260,3 +260,4 @@ var html_body = $('html, body');
             }
         }
     });
+$('.navbar-collapse ul li a').click(() => $('.navbar-toggler:visible').click());

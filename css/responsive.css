@@ -715,11 +715,7 @@
         text-align: center;
     }
 
-    nav ul {
-        background: #222222;
-        text-align: center;
 
-    }
 
     .navbar-brand {
         padding-left: 10px;
@@ -921,25 +917,6 @@
         font-size: 13px;
     }
 
-    nav button:focus {
-        outline: 0;
-    }
-
-    nav button i {
-        color: #fff;
-        border-radius: 5px;
-        background: #fec600;
-        width: 40px;
-        height: 40px;
-        line-height: 40px !important;
-        text-align: center;
-    }
-
-    nav ul {
-        background: #222222;
-        text-align: center;
-
-    }
 
     .navbar-brand {
         padding-left: 10px;
