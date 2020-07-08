@@ -200,7 +200,7 @@ nav ul li a:hover:after {
     color: #222222;
     background: #fec600;
     border: 1px solid #fec600;
-    outline: 0;
+    outline: none;
 
 
 }
