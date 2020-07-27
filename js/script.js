@@ -2,10 +2,11 @@
 $('#banner-part').slick({
     dots: true,
     infinite: true,
-    speed: 300,
+    speed: 1000,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: true,
+    fade:true,
     prevArrow: '<i class="fa fa-arrow-left prev" aria-hidden="true"></i>',
     nextArrow: '<i class="fa fa-arrow-right next" aria-hidden="true"></i>',
     responsive: [
